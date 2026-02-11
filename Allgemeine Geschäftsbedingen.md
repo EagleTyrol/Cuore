@@ -25,7 +25,7 @@ Willkommen bei „Cuore – Blutdruck Manager“ (im Folgenden „App“ genannt
 3. Dieser Haftungsausschluss gilt nicht für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit sowie für sonstige Schäden, die auf einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung des Entwicklers beruhen (soweit gesetzlich zwingend vorgeschrieben).
 
 ## 5. Datenschutz
-Die Erhebung und Verarbeitung von Daten (bzw. der bewusste Verzicht darauf durch rein lokale Speicherung) richtet sich nach unserer [Datenschutzerklärung](Link-zur-Datenschutzerklärung-hier-einfügen).
+Die Erhebung und Verarbeitung von Daten (bzw. der bewusste Verzicht darauf durch rein lokale Speicherung) richtet sich nach unserer [Datenschutzerklärung](https://github.com/EagleTyrol/Cuore/blob/main/PRIVACY_POLICY.md).
 
 ## 6. Beendigung der Nutzung
 Sie können die Nutzung der App jederzeit beenden, indem Sie die App von Ihrem Gerät löschen. Bitte beachten Sie, dass bei der Deinstallation in der Regel auch alle lokal in der App gespeicherten Daten (Ihre Messwerte) unwiderruflich von Ihrem Gerät gelöscht werden, sofern Sie zuvor kein externes Backup angelegt haben.
