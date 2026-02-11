@@ -39,9 +39,17 @@ Da Sie die volle Kontrolle über Ihre Daten haben, können Sie diese jederzeit s
 * In den Einstellungen können Sie die gesamte Datenbank unwiderruflich zurücksetzen.
 * Wenn Sie die App von Ihrem Gerät deinstallieren, löscht das Betriebssystem in der Regel auch alle dazugehörigen lokalen Daten.
 
-## 7. Kontakt
+## 8. Haftungsausschluss und Datensicherheit
+Da die App vollständig offline arbeitet und alle Daten ausschließlich lokal auf Ihrem eigenen Gerät gespeichert werden, übernehmen wir als Entwickler **keine Haftung** für die von Ihnen erfassten und gespeicherten Daten. 
+
+* **Verantwortung des Nutzers:** Es liegt in der alleinigen Verantwortung des Nutzers, sein Gerät und die darauf befindlichen Daten vor unbefugtem Zugriff, Verlust, Diebstahl oder Hackerangriffen zu schützen. 
+* **Schutzmaßnahmen:** Wir empfehlen dringend, das Betriebssystem Ihres Geräts stets aktuell zu halten, eine allgemeine Bildschirmsperre (PIN/Muster/Biometrie) für Ihr Smartphone einzurichten und regelmäßige Backups Ihrer Daten durchzuführen.
+
+## 9. Kontakt
 Bei Fragen zum Datenschutz rund um die App „Cuore“ können Sie sich jederzeit an den Entwickler wenden:
 
-**Bernhard Fischler, 6095 Anger 9** **eagle.tirol@gmail.com**
+**Bernhard Fischler**
+A - 6095 Anger 9
+**eagle.tirol@gmail.com**
 
 *Stand: Februar 2026*
